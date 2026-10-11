@@ -9,4 +9,11 @@ Bước 1: Tạo Repository trên GitHub
 	• Tích chọn Add a README.md file (đây là file viết ghi chú bằng Markdown).
 3. Nhấn Create repository
 4. Mở cmd (Win + R) chạy D:
-5. Chạy git clone https://github.com
+5. Chạy git clone link git của thư mục
+6. Chạy cd tên thư mục
+7. Mở tool làm bài lưu chạy thử
+ ###  Đẩy lên
+9. git add tênfile.cpp
+10. git commit -m "Chú thích"
+11. git push origin main
+ ### Lấy xuống
